@@ -4,18 +4,18 @@
 - 클론코딩 : 영화 ( https://nomadcoders.co/react-fundamentals/lobby
                 https://github.com/nomadcoders/movie_app_2019  )
 
-## 8월 29일
+## 8월 29일 (온라인-코로나 여파)
 - Hooks를 이용한 Movie_App 과제 확인
 - 어려웠던 점 토의
 - 과제 :
                 
-## 8월 14일
+## 8월 14일 (Grape Rounge)
 - 클론코딩 하면서 어려웠던점 및 궁금한점 토의
 - Hooks 공부
 - 벌금제도 의논
 - 과제 : Hooks를 이용한 영화앱 유지보수
 
-## 7월 31일
+## 7월 31일 (강남 스타벅스)
 - 첫모임
 - 일정 의논 : 2주에 한번씩 모임 
 - 클론코딩 주제 정함 
