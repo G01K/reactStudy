@@ -4,6 +4,11 @@
 - 클론코딩 : 영화 ( https://nomadcoders.co/react-fundamentals/lobby
                 https://github.com/nomadcoders/movie_app_2019  )
 
+## 8월 29일
+- Hooks를 이용한 Movie_App 과제 확인
+- 어려웠던 점 토의
+- 과제 :
+                
 ## 8월 14일
 - 클론코딩 하면서 어려웠던점 및 궁금한점 토의
 - Hooks 공부
